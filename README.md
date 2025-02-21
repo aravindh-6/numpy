@@ -1,3 +1,3 @@
 import numpy as np
-b = np.array[(1,2,3,4,5],[100,200,300,400,500])
-print(b.shape)
+c = np.array[(10,20,56,78],[123,144,678,456])
+print(c.shape)
